@@ -42,7 +42,7 @@ export default function LoginPage() {
         <CardHeader className="space-y-1">
           <div className="flex items-center justify-center space-x-2 mb-4">
             <BriefcaseIcon className="h-6 w-6" />
-            <span className="text-2xl font-bold">JobConnect</span>
+            <span className="text-2xl font-bold">JobHub</span>
           </div>
           <CardTitle className="text-2xl text-center">Welcome back</CardTitle>
         </CardHeader>
