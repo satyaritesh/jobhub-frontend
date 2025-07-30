@@ -1,6 +1,6 @@
 import axios, { AxiosInstance } from "axios";
 
-const baseURL: string = "http://localhost:8000/api";
+const baseURL: string = "https://jobhub-backend-delta.vercel.app/api";
 
 const apiClient: AxiosInstance = axios.create({
   baseURL: baseURL,
